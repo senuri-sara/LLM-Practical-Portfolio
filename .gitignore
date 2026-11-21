@@ -1,0 +1,22 @@
+# Virtual environments
+*_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets – never upload
+credentials.json
+token.json
+.env
+
+# Databases and large generated files
+chroma_db/
+*.db
+*.sqlite3
+*.pth
+*.safetensors
+stillhour_lora/
