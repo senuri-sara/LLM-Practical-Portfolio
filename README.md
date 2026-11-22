@@ -2,7 +2,7 @@
 
 **Module:** PUSL3205 – Large Language Models and Generative AI  
 **Student Name:** HWS Sathsarani  
-**Student ID:** 10967106  
+**Student ID:** 10967109  
 
 This repository documents the practical laboratory activities completed during the module, including traditional NLP, prompt engineering with LLMs, building a Transformer from scratch, fine-tuning with LoRA, Retrieval-Augmented Generation (RAG) and AI agents.
 

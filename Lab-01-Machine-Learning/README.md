@@ -1,6 +1,6 @@
 # Lab 01 – Sentiment Analysis Using Traditional Machine Learning
 
-**Student:** HWS Sathsarani (10967106)  
+**Student:** HWS Sathsarani (10967109)  
 **Module:** PUSL3205 – Large Language Models and Generative AI
 
 ## Objective
