@@ -2,16 +2,20 @@ from langchain_core.messages import HumanMessage, SystemMessage, ToolMessage
 from langchain_core.tools import tool
 
 # Reuse from Part B
-from memory_agent import (llm, calculator, save_memory, memory_search,
-                          init_db, load_facts, clear_memory,
-                          save_message, load_history)
+from memory_agent import (llm, calculator, save_memory, memory_search, init_db, load_facts, clear_memory,
+save_message, load_history)
 
-# Reuse from Lab 5
-from ingest import get_vectorstore
-# ---------- RAG Search tool ----------
-vectorstore = get_vectorstore()     
-# opens your existing chroma_db
+from pathlib import Path
+from langchain_chroma import Chroma
+from langchain_ollama import OllamaEmbeddings
 
+# RAG Search tool 
+# Opens the knowledge base built in Lab 05 (same collection and embedding model)
+vectorstore = Chroma(
+    collection_name="university_knowledge",
+    embedding_function=OllamaEmbeddings(model="qwen3-embedding:0.6b"),
+    persist_directory=str(Path(__file__).resolve().parent / "chroma_db"),
+)
 @tool
 def rag_search(query: str) -> str:
     """Searches the university knowledge base (the Computing Award Handbook).

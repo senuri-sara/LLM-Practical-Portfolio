@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+pyautogui
+pygetwindow
+psutil
+google-api-python-client
+google-auth
+google-auth-oauthlib
