@@ -112,7 +112,7 @@ def ingest_folder():
             chunk.metadata["source"] = pdf_path.name
 
         ids = [f"{file_hash}_{i}" for i in range(len(chunks))]
-        vectorstore.add_documents(documents=chunks, ids=chunk_ids if False else ids)
+        vectorstore.add_documents(documents=chunks, ids=ids)
         print(f"Indexed {pdf_path.name} ({len(chunks)} chunks)")
 
 
