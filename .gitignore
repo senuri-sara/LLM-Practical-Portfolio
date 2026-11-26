@@ -8,7 +8,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Secrets – never upload
+# Secrets 
 credentials.json
 token.json
 .env
