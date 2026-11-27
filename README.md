@@ -45,9 +45,9 @@ This assessment is in the **Assisted** category. Claude (Anthropic) was used as 
 | Lab 02 | AI  helped improve the prompts and create the visual prototype board |
 | Lab 03 | Debugging errors in the notebook and explaining the training and evaluation steps |
 | Lab 04 | Explaining fine-tuning and LoRA, generating the initial set of 30 StillHour question-and-answer pairs, and identifying the bug where LoRA changed the base model in place |
-| Lab 05 | Streamlit app improvements |
+| Lab 05 | Suggested code for the ingestion script, query rewriting with MMR and the Streamlit app |
 | Lab 06 | Debugging the agents, including suggested code fixes for `calc_agent.py` and `memory_agent.py` |
 | Documentation | Helping structure lab READMEs and final reflection |
 
 ## Acknowledgements
-The lab tasks and starter code are based on the PUSL3205 lab sheets
+The lab tasks and starter code are based on the PUSL3205 lab sheets , and the code was modified and extended for this portfolio.
