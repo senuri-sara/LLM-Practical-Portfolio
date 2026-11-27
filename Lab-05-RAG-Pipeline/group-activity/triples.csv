@@ -1,0 +1,254 @@
+subject,relation,object,year,type,credits
+Faculty of Computing,OFFERS,BSc in Management Information Systems (Special),,,
+Faculty of Computing,OFFERS,BSc (Hons) in Software Engineering,,,
+Faculty of Computing,OFFERS,BSc (Hons) in Computer Science,,,
+Faculty of Computing,OFFERS,BSc (Hons) in Computer Networks,,,
+Faculty of Computing,OFFERS,BSc in Multimedia,,,
+BSc in Management Information Systems (Special),LEADS_TO,Software Engineer,,,
+BSc in Management Information Systems (Special),LEADS_TO,Business Analyst,,,
+BSc in Management Information Systems (Special),LEADS_TO,Quality Assurance Engineer,,,
+BSc in Management Information Systems (Special),LEADS_TO,UI Engineer,,,
+BSc in Management Information Systems (Special),LEADS_TO,System Support Engineer,,,
+BSc in Management Information Systems (Special),LEADS_TO,Web Design,,,
+BSc in Management Information Systems (Special),LEADS_TO,IT Management Interns,,,
+BSc in Management Information Systems (Special),LEADS_TO,Project managers,,,
+BSc in Management Information Systems (Special),HAS_MODULE,CS101.3 Introduction to Computer Science,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,MA101.3 Mathematics for Computing,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS102.3 Programming in C,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS103.3 Professional Development,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CN101.3 Data Communication and Networks,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE101.3 Object Oriented Programming with Java,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS106.3 Algorithms and Data Structures,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS104.3 Computer Architecture,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS105.3 Database Management Systems,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE102.3 Web Based Application Development,1,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,MA201.3 Statistics for Computing,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE201.3 Systems Analysis and Design,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE204.3 Development of Enterprise Applications I,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS202.3 Foundations of Information Systems,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS202.3 Foundations of Information Systems,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,BS201.3 Business Studies,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE202.3 Introduction to Software Engineering,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CN201.3 Computer Networks,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE206.3 Human Computer Interaction,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS204.3 Business Process Management,2,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS301.3 IT Project Management,3,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS304.3 Advanced Database Management Systems,3,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE303.3 Mobile Application Development,3,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE305.6 Internship,3,Core,6
+BSc in Management Information Systems (Special),HAS_MODULE,SE307.3 Social Issues and Professional Practice,3,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS302.3 IT Audit and Control,3,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS301.3 Enterprise Architecture,3,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,CN302.3 Wireless Technologies and Network Programming,3,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS306.3 Information Assurance and Security,3,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE304.3 Software Quality Assurance,3,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE308.3 Software Process Management,3,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,BS401.3 Business Policy and Strategy,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,BS402.3 Entrepreneurship,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,CN402.3 Enterprise Networks,4,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS401.3 Management Information Systems,4,Core,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS405.6 MIS Special Award Project,4,Core,6
+BSc in Management Information Systems (Special),HAS_MODULE,SE402.3 Development of Enterprise Applications II,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS404.3 Business Analytics,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,CN406.3 Disaster Recovery and High Availability Techniques,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS405.3 Data Warehousing and Data Mining,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,CS407.3 Internet of Things,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE403.3 Platform Based Development,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,SE404.3 Agent Based Systems,4,Elective,3
+BSc in Management Information Systems (Special),HAS_MODULE,IS402.3 E-Business Application Development,4,Elective,3
+BSc (Hons) in Software Engineering,LEADS_TO,Software Engineer,,,
+BSc (Hons) in Software Engineering,LEADS_TO,Systems Analyst,,,
+BSc (Hons) in Software Engineering,LEADS_TO,Quality Assurance Engineer,,,
+BSc (Hons) in Software Engineering,LEADS_TO,UI Engineer,,,
+BSc (Hons) in Software Engineering,LEADS_TO,System Support Engineer,,,
+BSc (Hons) in Software Engineering,LEADS_TO,Web Design,,,
+BSc (Hons) in Software Engineering,HAS_MODULE,CS101.3 Introduction to Computer Science,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,MA101.3 Mathematics for Computing,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS102.3 Programming in C,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS103.3 Professional Development,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CN101.3 Data Communication and Networks,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE101.3 Object Oriented Programming with Java,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS106.3 Algorithms and Data Structures,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS104.3 Computer Architecture,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS105.3 Database Management Systems,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE102.3 Web Based Application Development,1,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS201.3 Operating Systems,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE202.3 Introduction to Software Engineering,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,MA201.3 Statistics for Computing,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE201.3 Systems Analysis and Design,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS203.3 Algorithms and Complexity,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CN201.3 Computer Networks,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE204.3 Development of Enterprise Applications I,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE205.3 Software Architecture,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE206.3 Human Computer Interaction,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,IS201.3 Business Processes and ERP,2,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,MA301.3 Advanced Mathematics for Computing,3,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE304.3 Software Quality Assurance,3,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE307.3 Social Issues and Professional Practice,3,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE308.3 Software Process Management,3,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS306.3 Information Assurance and Security,3,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE309.3 Software Verification and Validation,3,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE305.6 Internship,3,Core,6
+BSc (Hons) in Software Engineering,HAS_MODULE,CS304.3 Advanced Database Management Systems,3,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE303.3 Mobile Application Development,3,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS301.3 IT Project Management,3,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,BS401.3 Business Policy and Strategy,4,Core,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CN402.3 Enterprise Networks,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,IS401.3 Management Information Systems,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE402.3 Development of Enterprise Applications II,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE401.6 SE Honours Award Project,4,Core,6
+BSc (Hons) in Software Engineering,HAS_MODULE,CS403.3 Artificial Intelligence,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS408.3 Embedded Systems,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS402.3 Computer Graphics and Visualization,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS404.3 Parallel and Distributed Computing,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS405.3 Data Warehousing and Data Mining,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,CS407.3 Internet of Things,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE403.3 Platform Based Development,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,SE404.3 Agent Based Systems,4,Elective,3
+BSc (Hons) in Software Engineering,HAS_MODULE,IS402.3 E-Business Application Development,4,Elective,3
+BSc (Hons) in Computer Science,LEADS_TO,Analysts,,,
+BSc (Hons) in Computer Science,LEADS_TO,Designers,,,
+BSc (Hons) in Computer Science,LEADS_TO,Architects,,,
+BSc (Hons) in Computer Science,LEADS_TO,Developers,,,
+BSc (Hons) in Computer Science,LEADS_TO,Testing and QA Specialists,,,
+BSc (Hons) in Computer Science,LEADS_TO,System Administrators,,,
+BSc (Hons) in Computer Science,LEADS_TO,Business/technology Analysts and System Integrators,,,
+BSc (Hons) in Computer Science,HAS_MODULE,CS101.3 Introduction to Computer Science,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,MA101.3 Mathematics for Computing,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS102.3 Programming in C,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS103.3 Professional Development,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CN101.3 Data Communication and Networks,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE101.3 Object Oriented Programming with Java,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS106.3 Algorithms and Data Structures,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS104.3 Computer Architecture,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS105.3 Database Management Systems,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE102.3 Web Based Application Development,1,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,MA201.3 Statistics for Computing,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE201.3 Systems Analysis and Design,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE204.3 Development of Enterprise Applications I,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE205.3 Software Architecture,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS202.3 Systems Fundamentals,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE202.3 Introduction to Software Engineering,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CN201.3 Computer Networks,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE206.3 Human Computer Interaction,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS203.3 Algorithms and Complexity,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS201.3 Operating Systems,2,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS304.3 Advanced Database Management Systems,3,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE303.3 Mobile Application Development,3,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE305.6 Internship,3,Core,6
+BSc (Hons) in Computer Science,HAS_MODULE,SE307.3 Social Issues and Professional Practice,3,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,MA301.3 Advanced Mathematics for Computing,3,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS303.3 Computational Theory,3,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS305.3 Programming Languages and Compiler Design,3,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CN302.3 Wireless Technologies and Network Programming,3,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS306.3 Information Assurance and Security,3,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE308.3 Software Process Management,3,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS302.3 Cryptography,3,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,BS401.3 Business Policy and Strategy,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,BS402.3 Entrepreneurship,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE402.3 Development of Enterprise Applications II,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS403.3 Artificial Intelligence,4,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS408.3 Embedded Systems,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS402.3 Computer Graphics and Visualization,4,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS404.3 Parallel and Distributed Computing,4,Core,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS405.3 Data Warehousing and Data Mining,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS407.3 Internet of Things,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE403.3 Platform Based Development,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,SE404.3 Agent Based Systems,4,Elective,3
+BSc (Hons) in Computer Science,HAS_MODULE,CS401.6 CS Honours Award Project,4,Core,6
+BSc (Hons) in Computer Science,HAS_MODULE,CS406.3 Bio Informatics,4,Elective,3
+BSc (Hons) in Computer Networks,LEADS_TO,Network Administrator,,,
+BSc (Hons) in Computer Networks,LEADS_TO,Network Engineer,,,
+BSc (Hons) in Computer Networks,LEADS_TO,Network Analyst,,,
+BSc (Hons) in Computer Networks,LEADS_TO,IT/Systems Support Engineer,,,
+BSc (Hons) in Computer Networks,LEADS_TO,Network Architect,,,
+BSc (Hons) in Computer Networks,LEADS_TO,VoIP Engineer,,,
+BSc (Hons) in Computer Networks,HAS_MODULE,CS101.3 Introduction to Computer Science,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,MA101.3 Mathematics for Computing,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS102.3 Programming in C,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS103.3 Professional Development,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN101.3 Data Communication and Networks,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE101.3 Object Oriented Programming with Java,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS106.3 Algorithms and Data Structures,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS104.3 Computer Architecture,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS105.3 Database Management Systems,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE102.3 Web Based Application Development,1,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,MA201.3 Statistics for Computing,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE201.3 Systems Analysis and Design,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE204.3 Development of Enterprise Applications I,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN202.3 Network Management,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN205.3 Voice and Video over IP,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN201.3 Computer Networks,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE206.3 Human Computer Interaction,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS201.3 Operating Systems,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN203.3 Network Systems Configuration and Administration,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN204.3 Network Security,2,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS301.3 IT Project Management,3,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE305.6 Internship,3,Core,6
+BSc (Hons) in Computer Networks,HAS_MODULE,IS301.3 Enterprise Architecture,3,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,MA301.3 Advanced Mathematics for Computing,3,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN301.3 Advanced Routing and Switching,3,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN303.3 Service Provider Systems and Networks,3,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN302.3 Wireless Technologies and Network Programming,3,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS306.3 Information Assurance and Security,3,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS302.3 Cryptography,3,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,IS302.3 IT Audit and Control,3,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE307.3 Social Issues and Professional Practice,3,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,BS401.3 Business Policy and Strategy,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,BS402.3 Entrepreneurship,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN402.3 Enterprise Networks,4,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,IS401.3 Management Information Systems,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN406.3 Disaster Recovery and High Availability Techniques,4,Core,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS408.3 Embedded Systems,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS404.3 Parallel and Distributed Computing,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS405.3 Data Warehousing and Data Mining,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CS407.3 Internet of Things,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,SE403.3 Platform Based Development,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,IS402.3 E-Business Application Development,4,Elective,3
+BSc (Hons) in Computer Networks,HAS_MODULE,CN401.6 CN Honours Award Project,4,Core,6
+BSc (Hons) in Computer Networks,HAS_MODULE,"CN403.3 Intrusion Prevention, Detection & Response",4,Core,3
+BSc in Multimedia,LEADS_TO,Graphic and Communication Designer,,,
+BSc in Multimedia,LEADS_TO,Art Director,,,
+BSc in Multimedia,LEADS_TO,Creative Director,,,
+BSc in Multimedia,LEADS_TO,Video Editor,,,
+BSc in Multimedia,LEADS_TO,Production Director,,,
+BSc in Multimedia,LEADS_TO,2D and 3D Visualizer,,,
+BSc in Multimedia,LEADS_TO,Animation Designer,,,
+BSc in Multimedia,LEADS_TO,Virtual Environmental Designer,,,
+BSc in Multimedia,LEADS_TO,Game Designer,,,
+BSc in Multimedia,LEADS_TO,Film Director,,,
+BSc in Multimedia,LEADS_TO,Web and interface designer,,,
+BSc in Multimedia,LEADS_TO,Entrepreneur,,,
+BSc in Multimedia,HAS_MODULE,MM 1001 Concept Development,1,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1002 World of Multimedia,1,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1003 Computing Fundamentals,1,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1004 Drawing,1,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1005 Design Principles 1,1,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1006 Typography Design,1,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1007 Illustration,1,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1008 Story Telling and Script Writing,1,Core,2
+BSc in Multimedia,HAS_MODULE,"MM 1009 Art, Design and society",1,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1010 Animation Studies,1,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1011 Digital Imaging,1,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1012 Multimedia Imaging,1,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1013 Photography,2,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1014 Cinematography,2,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1015 3D Design 1,2,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1016 Game Design,2,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1017 Video Editing and Production,2,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1018 Interactive Design,2,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1019 Advertising and Media Art,2,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1020 Multimedia Project Management,2,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1021 3D Design 2,2,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1022 Web Design,2,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1023 Design Principles 2,2,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1024 Visual Communication,2,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1025 Multimedia Production,3,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1026 Professional Studies,3,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1027 Visual Effects Production,3,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1028 Research Methodology,3,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1029 Dissertation,3,Core,5
+BSc in Multimedia,HAS_MODULE,MM 1030 Internship,3,Core,4
+BSc in Multimedia,HAS_MODULE,MM 1031 Media Law and Ethics,3,Core,2
+BSc in Multimedia,HAS_MODULE,MM 1032 Entrepreneurship,3,Core,3
+BSc in Multimedia,HAS_MODULE,MM 1033 Final Project,3,Core,6

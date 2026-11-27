@@ -1,0 +1,2930 @@
+{
+ "directed": true,
+ "multigraph": true,
+ "graph": {},
+ "nodes": [
+  {
+   "kind": "Faculty",
+   "id": "Faculty of Computing"
+  },
+  {
+   "kind": "Programme",
+   "duration": "4 Years",
+   "progression": "MSc, MBA, PhD",
+   "id": "BSc in Management Information Systems (Special)"
+  },
+  {
+   "kind": "Career",
+   "id": "Software Engineer"
+  },
+  {
+   "kind": "Career",
+   "id": "Business Analyst"
+  },
+  {
+   "kind": "Career",
+   "id": "Quality Assurance Engineer"
+  },
+  {
+   "kind": "Career",
+   "id": "UI Engineer"
+  },
+  {
+   "kind": "Career",
+   "id": "System Support Engineer"
+  },
+  {
+   "kind": "Career",
+   "id": "Web Design"
+  },
+  {
+   "kind": "Career",
+   "id": "IT Management Interns"
+  },
+  {
+   "kind": "Career",
+   "id": "Project managers"
+  },
+  {
+   "kind": "Programme",
+   "duration": "4 Years",
+   "progression": "MSc, MBA, PhD",
+   "id": "BSc (Hons) in Software Engineering"
+  },
+  {
+   "kind": "Career",
+   "id": "Systems Analyst"
+  },
+  {
+   "kind": "Programme",
+   "duration": "4 Years",
+   "progression": "MSc, MBA, PhD",
+   "id": "BSc (Hons) in Computer Science"
+  },
+  {
+   "kind": "Career",
+   "id": "Analysts"
+  },
+  {
+   "kind": "Career",
+   "id": "Designers"
+  },
+  {
+   "kind": "Career",
+   "id": "Architects"
+  },
+  {
+   "kind": "Career",
+   "id": "Developers"
+  },
+  {
+   "kind": "Career",
+   "id": "Testing and QA Specialists"
+  },
+  {
+   "kind": "Career",
+   "id": "System Administrators"
+  },
+  {
+   "kind": "Career",
+   "id": "Business/technology Analysts and System Integrators"
+  },
+  {
+   "kind": "Programme",
+   "duration": "4 Years",
+   "progression": "MSc, MBA, PhD",
+   "id": "BSc (Hons) in Computer Networks"
+  },
+  {
+   "kind": "Career",
+   "id": "Network Administrator"
+  },
+  {
+   "kind": "Career",
+   "id": "Network Engineer"
+  },
+  {
+   "kind": "Career",
+   "id": "Network Analyst"
+  },
+  {
+   "kind": "Career",
+   "id": "IT/Systems Support Engineer"
+  },
+  {
+   "kind": "Career",
+   "id": "Network Architect"
+  },
+  {
+   "kind": "Career",
+   "id": "VoIP Engineer"
+  },
+  {
+   "kind": "Programme",
+   "duration": "3 Years",
+   "progression": "MSc, PhD",
+   "id": "BSc in Multimedia"
+  },
+  {
+   "kind": "Career",
+   "id": "Graphic and Communication Designer"
+  },
+  {
+   "kind": "Career",
+   "id": "Art Director"
+  },
+  {
+   "kind": "Career",
+   "id": "Creative Director"
+  },
+  {
+   "kind": "Career",
+   "id": "Video Editor"
+  },
+  {
+   "kind": "Career",
+   "id": "Production Director"
+  },
+  {
+   "kind": "Career",
+   "id": "2D and 3D Visualizer"
+  },
+  {
+   "kind": "Career",
+   "id": "Animation Designer"
+  },
+  {
+   "kind": "Career",
+   "id": "Virtual Environmental Designer"
+  },
+  {
+   "kind": "Career",
+   "id": "Game Designer"
+  },
+  {
+   "kind": "Career",
+   "id": "Film Director"
+  },
+  {
+   "kind": "Career",
+   "id": "Web and interface designer"
+  },
+  {
+   "kind": "Career",
+   "id": "Entrepreneur"
+  },
+  {
+   "kind": "Module",
+   "name": "Introduction to Computer Science",
+   "credits": 3,
+   "id": "CS101.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Mathematics for Computing",
+   "credits": 3,
+   "id": "MA101.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Programming in C",
+   "credits": 3,
+   "id": "CS102.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Professional Development",
+   "credits": 3,
+   "id": "CS103.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Data Communication and Networks",
+   "credits": 3,
+   "id": "CN101.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Object Oriented Programming with Java",
+   "credits": 3,
+   "id": "SE101.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Algorithms and Data Structures",
+   "credits": 3,
+   "id": "CS106.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Computer Architecture",
+   "credits": 3,
+   "id": "CS104.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Database Management Systems",
+   "credits": 3,
+   "id": "CS105.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Web Based Application Development",
+   "credits": 3,
+   "id": "SE102.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Statistics for Computing",
+   "credits": 3,
+   "id": "MA201.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Systems Analysis and Design",
+   "credits": 3,
+   "id": "SE201.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Development of Enterprise Applications I",
+   "credits": 3,
+   "id": "SE204.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Foundations of Information Systems",
+   "credits": 3,
+   "id": "IS202.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Business Studies",
+   "credits": 3,
+   "id": "BS201.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Introduction to Software Engineering",
+   "credits": 3,
+   "id": "SE202.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Computer Networks",
+   "credits": 3,
+   "id": "CN201.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Human Computer Interaction",
+   "credits": 3,
+   "id": "SE206.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Business Process Management",
+   "credits": 3,
+   "id": "IS204.3"
+  },
+  {
+   "kind": "Module",
+   "name": "IT Project Management",
+   "credits": 3,
+   "id": "CS301.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Advanced Database Management Systems",
+   "credits": 3,
+   "id": "CS304.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Mobile Application Development",
+   "credits": 3,
+   "id": "SE303.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Internship",
+   "credits": 6,
+   "id": "SE305.6"
+  },
+  {
+   "kind": "Module",
+   "name": "Social Issues and Professional Practice",
+   "credits": 3,
+   "id": "SE307.3"
+  },
+  {
+   "kind": "Module",
+   "name": "IT Audit and Control",
+   "credits": 3,
+   "id": "IS302.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Enterprise Architecture",
+   "credits": 3,
+   "id": "IS301.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Wireless Technologies and Network Programming",
+   "credits": 3,
+   "id": "CN302.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Information Assurance and Security",
+   "credits": 3,
+   "id": "CS306.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Software Quality Assurance",
+   "credits": 3,
+   "id": "SE304.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Software Process Management",
+   "credits": 3,
+   "id": "SE308.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Business Policy and Strategy",
+   "credits": 3,
+   "id": "BS401.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Entrepreneurship",
+   "credits": 3,
+   "id": "BS402.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Enterprise Networks",
+   "credits": 3,
+   "id": "CN402.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Management Information Systems",
+   "credits": 3,
+   "id": "IS401.3"
+  },
+  {
+   "kind": "Module",
+   "name": "MIS Special Award Project",
+   "credits": 6,
+   "id": "IS405.6"
+  },
+  {
+   "kind": "Module",
+   "name": "Development of Enterprise Applications II",
+   "credits": 3,
+   "id": "SE402.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Business Analytics",
+   "credits": 3,
+   "id": "IS404.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Disaster Recovery and High Availability Techniques",
+   "credits": 3,
+   "id": "CN406.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Data Warehousing and Data Mining",
+   "credits": 3,
+   "id": "CS405.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Internet of Things",
+   "credits": 3,
+   "id": "CS407.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Platform Based Development",
+   "credits": 3,
+   "id": "SE403.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Agent Based Systems",
+   "credits": 3,
+   "id": "SE404.3"
+  },
+  {
+   "kind": "Module",
+   "name": "E-Business Application Development",
+   "credits": 3,
+   "id": "IS402.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Operating Systems",
+   "credits": 3,
+   "id": "CS201.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Algorithms and Complexity",
+   "credits": 3,
+   "id": "CS203.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Software Architecture",
+   "credits": 3,
+   "id": "SE205.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Business Processes and ERP",
+   "credits": 3,
+   "id": "IS201.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Advanced Mathematics for Computing",
+   "credits": 3,
+   "id": "MA301.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Software Verification and Validation",
+   "credits": 3,
+   "id": "SE309.3"
+  },
+  {
+   "kind": "Module",
+   "name": "SE Honours Award Project",
+   "credits": 6,
+   "id": "SE401.6"
+  },
+  {
+   "kind": "Module",
+   "name": "Artificial Intelligence",
+   "credits": 3,
+   "id": "CS403.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Embedded Systems",
+   "credits": 3,
+   "id": "CS408.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Computer Graphics and Visualization",
+   "credits": 3,
+   "id": "CS402.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Parallel and Distributed Computing",
+   "credits": 3,
+   "id": "CS404.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Systems Fundamentals",
+   "credits": 3,
+   "id": "CS202.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Computational Theory",
+   "credits": 3,
+   "id": "CS303.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Programming Languages and Compiler Design",
+   "credits": 3,
+   "id": "CS305.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Cryptography",
+   "credits": 3,
+   "id": "CS302.3"
+  },
+  {
+   "kind": "Module",
+   "name": "CS Honours Award Project",
+   "credits": 6,
+   "id": "CS401.6"
+  },
+  {
+   "kind": "Module",
+   "name": "Bio Informatics",
+   "credits": 3,
+   "id": "CS406.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Network Management",
+   "credits": 3,
+   "id": "CN202.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Voice and Video over IP",
+   "credits": 3,
+   "id": "CN205.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Network Systems Configuration and Administration",
+   "credits": 3,
+   "id": "CN203.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Network Security",
+   "credits": 3,
+   "id": "CN204.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Advanced Routing and Switching",
+   "credits": 3,
+   "id": "CN301.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Service Provider Systems and Networks",
+   "credits": 3,
+   "id": "CN303.3"
+  },
+  {
+   "kind": "Module",
+   "name": "CN Honours Award Project",
+   "credits": 6,
+   "id": "CN401.6"
+  },
+  {
+   "kind": "Module",
+   "name": "Intrusion Prevention, Detection & Response",
+   "credits": 3,
+   "id": "CN403.3"
+  },
+  {
+   "kind": "Module",
+   "name": "Concept Development",
+   "credits": 3,
+   "id": "MM 1001"
+  },
+  {
+   "kind": "Module",
+   "name": "World of Multimedia",
+   "credits": 2,
+   "id": "MM 1002"
+  },
+  {
+   "kind": "Module",
+   "name": "Computing Fundamentals",
+   "credits": 2,
+   "id": "MM 1003"
+  },
+  {
+   "kind": "Module",
+   "name": "Drawing",
+   "credits": 2,
+   "id": "MM 1004"
+  },
+  {
+   "kind": "Module",
+   "name": "Design Principles 1",
+   "credits": 3,
+   "id": "MM 1005"
+  },
+  {
+   "kind": "Module",
+   "name": "Typography Design",
+   "credits": 3,
+   "id": "MM 1006"
+  },
+  {
+   "kind": "Module",
+   "name": "Illustration",
+   "credits": 2,
+   "id": "MM 1007"
+  },
+  {
+   "kind": "Module",
+   "name": "Story Telling and Script Writing",
+   "credits": 2,
+   "id": "MM 1008"
+  },
+  {
+   "kind": "Module",
+   "name": "Art, Design and society",
+   "credits": 2,
+   "id": "MM 1009"
+  },
+  {
+   "kind": "Module",
+   "name": "Animation Studies",
+   "credits": 3,
+   "id": "MM 1010"
+  },
+  {
+   "kind": "Module",
+   "name": "Digital Imaging",
+   "credits": 3,
+   "id": "MM 1011"
+  },
+  {
+   "kind": "Module",
+   "name": "Multimedia Imaging",
+   "credits": 3,
+   "id": "MM 1012"
+  },
+  {
+   "kind": "Module",
+   "name": "Photography",
+   "credits": 2,
+   "id": "MM 1013"
+  },
+  {
+   "kind": "Module",
+   "name": "Cinematography",
+   "credits": 3,
+   "id": "MM 1014"
+  },
+  {
+   "kind": "Module",
+   "name": "3D Design 1",
+   "credits": 2,
+   "id": "MM 1015"
+  },
+  {
+   "kind": "Module",
+   "name": "Game Design",
+   "credits": 2,
+   "id": "MM 1016"
+  },
+  {
+   "kind": "Module",
+   "name": "Video Editing and Production",
+   "credits": 3,
+   "id": "MM 1017"
+  },
+  {
+   "kind": "Module",
+   "name": "Interactive Design",
+   "credits": 3,
+   "id": "MM 1018"
+  },
+  {
+   "kind": "Module",
+   "name": "Advertising and Media Art",
+   "credits": 3,
+   "id": "MM 1019"
+  },
+  {
+   "kind": "Module",
+   "name": "Multimedia Project Management",
+   "credits": 3,
+   "id": "MM 1020"
+  },
+  {
+   "kind": "Module",
+   "name": "3D Design 2",
+   "credits": 2,
+   "id": "MM 1021"
+  },
+  {
+   "kind": "Module",
+   "name": "Web Design",
+   "credits": 2,
+   "id": "MM 1022"
+  },
+  {
+   "kind": "Module",
+   "name": "Design Principles 2",
+   "credits": 2,
+   "id": "MM 1023"
+  },
+  {
+   "kind": "Module",
+   "name": "Visual Communication",
+   "credits": 3,
+   "id": "MM 1024"
+  },
+  {
+   "kind": "Module",
+   "name": "Multimedia Production",
+   "credits": 2,
+   "id": "MM 1025"
+  },
+  {
+   "kind": "Module",
+   "name": "Professional Studies",
+   "credits": 3,
+   "id": "MM 1026"
+  },
+  {
+   "kind": "Module",
+   "name": "Visual Effects Production",
+   "credits": 3,
+   "id": "MM 1027"
+  },
+  {
+   "kind": "Module",
+   "name": "Research Methodology",
+   "credits": 2,
+   "id": "MM 1028"
+  },
+  {
+   "kind": "Module",
+   "name": "Dissertation",
+   "credits": 5,
+   "id": "MM 1029"
+  },
+  {
+   "kind": "Module",
+   "name": "Internship",
+   "credits": 4,
+   "id": "MM 1030"
+  },
+  {
+   "kind": "Module",
+   "name": "Media Law and Ethics",
+   "credits": 2,
+   "id": "MM 1031"
+  },
+  {
+   "kind": "Module",
+   "name": "Entrepreneurship",
+   "credits": 3,
+   "id": "MM 1032"
+  },
+  {
+   "kind": "Module",
+   "name": "Final Project",
+   "credits": 6,
+   "id": "MM 1033"
+  }
+ ],
+ "links": [
+  {
+   "relation": "OFFERS",
+   "source": "Faculty of Computing",
+   "target": "BSc in Management Information Systems (Special)",
+   "key": 0
+  },
+  {
+   "relation": "OFFERS",
+   "source": "Faculty of Computing",
+   "target": "BSc (Hons) in Software Engineering",
+   "key": 0
+  },
+  {
+   "relation": "OFFERS",
+   "source": "Faculty of Computing",
+   "target": "BSc (Hons) in Computer Science",
+   "key": 0
+  },
+  {
+   "relation": "OFFERS",
+   "source": "Faculty of Computing",
+   "target": "BSc (Hons) in Computer Networks",
+   "key": 0
+  },
+  {
+   "relation": "OFFERS",
+   "source": "Faculty of Computing",
+   "target": "BSc in Multimedia",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "Software Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "Business Analyst",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "Quality Assurance Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "UI Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "System Support Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "Web Design",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IT Management Interns",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "Project managers",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Introduction to Computer Science",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Mathematics for Computing",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "MA101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Programming in C",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Professional Development",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS103.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Data Communication and Networks",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CN101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Object Oriented Programming with Java",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Algorithms and Data Structures",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS106.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Computer Architecture",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS104.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Database Management Systems",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS105.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Web Based Application Development",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Statistics for Computing",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "MA201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Systems Analysis and Design",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Development of Enterprise Applications I",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE204.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Foundations of Information Systems",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS202.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Enterprise Systems",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS202.3",
+   "key": 1
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Business Studies",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "BS201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Introduction to Software Engineering",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE202.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Computer Networks",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CN201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Human Computer Interaction",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE206.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Business Process Management",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS204.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "IT Project Management",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Advanced Database Management Systems",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS304.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Mobile Application Development",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE303.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Internship",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE305.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Social Issues and Professional Practice",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE307.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "IT Audit and Control",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Enterprise Architecture",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Wireless Technologies and Network Programming",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CN302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Information Assurance and Security",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS306.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Software Quality Assurance",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE304.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Software Process Management",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE308.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Business Policy and Strategy",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "BS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Entrepreneurship",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "BS402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Enterprise Networks",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CN402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Management Information Systems",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "MIS Special Award Project",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS405.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Development of Enterprise Applications II",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Business Analytics",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Disaster Recovery and High Availability Techniques",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CN406.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Data Warehousing and Data Mining",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS405.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Internet of Things",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "CS407.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Platform Based Development",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE403.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Agent Based Systems",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "SE404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "E-Business Application Development",
+   "source": "BSc in Management Information Systems (Special)",
+   "target": "IS402.3",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "Software Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "Systems Analyst",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "Quality Assurance Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "UI Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "System Support Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "Web Design",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Introduction to Computer Science",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Mathematics for Computing",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "MA101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Programming in C",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Professional Development",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS103.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Data Communication and Networks",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CN101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Object Oriented Programming with Java",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Algorithms and Data Structures",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS106.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Computer Architecture",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS104.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Database Management Systems",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS105.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Web Based Application Development",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Operating Systems",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Introduction to Software Engineering",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE202.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Statistics for Computing",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "MA201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Systems Analysis and Design",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Algorithms and Complexity",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS203.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Computer Networks",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CN201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Development of Enterprise Applications I",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE204.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Software Architecture",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE205.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Human Computer Interaction",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE206.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Business Processes and ERP",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "IS201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Advanced Mathematics for Computing",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "MA301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Software Quality Assurance",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE304.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Social Issues and Professional Practice",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE307.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Software Process Management",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE308.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Information Assurance and Security",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS306.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Software Verification and Validation",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE309.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Internship",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE305.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Advanced Database Management Systems",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS304.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Mobile Application Development",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE303.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "IT Project Management",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Business Policy and Strategy",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "BS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Enterprise Networks",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CN402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Management Information Systems",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "IS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Development of Enterprise Applications II",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "SE Honours Award Project",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE401.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Artificial Intelligence",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS403.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Embedded Systems",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS408.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Computer Graphics and Visualization",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Parallel and Distributed Computing",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Data Warehousing and Data Mining",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS405.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Internet of Things",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "CS407.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Platform Based Development",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE403.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Agent Based Systems",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "SE404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "E-Business Application Development",
+   "source": "BSc (Hons) in Software Engineering",
+   "target": "IS402.3",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "Analysts",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "Designers",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "Architects",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "Developers",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "Testing and QA Specialists",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "System Administrators",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "Business/technology Analysts and System Integrators",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Introduction to Computer Science",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Mathematics for Computing",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "MA101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Programming in C",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Professional Development",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS103.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Data Communication and Networks",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CN101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Object Oriented Programming with Java",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Algorithms and Data Structures",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS106.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Computer Architecture",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS104.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Database Management Systems",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS105.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Web Based Application Development",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Statistics for Computing",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "MA201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Systems Analysis and Design",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Development of Enterprise Applications I",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE204.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Software Architecture",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE205.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Systems Fundamentals",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS202.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Introduction to Software Engineering",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE202.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Computer Networks",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CN201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Human Computer Interaction",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE206.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Algorithms and Complexity",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS203.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Operating Systems",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Advanced Database Management Systems",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS304.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Mobile Application Development",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE303.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Internship",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE305.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Social Issues and Professional Practice",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE307.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Advanced Mathematics for Computing",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "MA301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Computational Theory",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS303.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Programming Languages and Compiler Design",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS305.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Wireless Technologies and Network Programming",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CN302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Information Assurance and Security",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS306.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Software Process Management",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE308.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Cryptography",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Business Policy and Strategy",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "BS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Entrepreneurship",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "BS402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Development of Enterprise Applications II",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Artificial Intelligence",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS403.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Embedded Systems",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS408.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Computer Graphics and Visualization",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Parallel and Distributed Computing",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Data Warehousing and Data Mining",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS405.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Internet of Things",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS407.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Platform Based Development",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE403.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Agent Based Systems",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "SE404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "CS Honours Award Project",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS401.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Bio Informatics",
+   "source": "BSc (Hons) in Computer Science",
+   "target": "CS406.3",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "Network Administrator",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "Network Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "Network Analyst",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "IT/Systems Support Engineer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "Network Architect",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "VoIP Engineer",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Introduction to Computer Science",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Mathematics for Computing",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "MA101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Programming in C",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Professional Development",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS103.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Data Communication and Networks",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Object Oriented Programming with Java",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE101.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Algorithms and Data Structures",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS106.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Computer Architecture",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS104.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Database Management Systems",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS105.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Web Based Application Development",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE102.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Statistics for Computing",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "MA201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Systems Analysis and Design",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Development of Enterprise Applications I",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE204.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Network Management",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN202.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Voice and Video over IP",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN205.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Computer Networks",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Human Computer Interaction",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE206.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Operating Systems",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS201.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Network Systems Configuration and Administration",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN203.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Network Security",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN204.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "IT Project Management",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Internship",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE305.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Enterprise Architecture",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "IS301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Advanced Mathematics for Computing",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "MA301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Advanced Routing and Switching",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN301.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Service Provider Systems and Networks",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN303.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Wireless Technologies and Network Programming",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Information Assurance and Security",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS306.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "Cryptography",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Elective",
+   "name_here": "IT Audit and Control",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "IS302.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Social Issues and Professional Practice",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE307.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Business Policy and Strategy",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "BS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Entrepreneurship",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "BS402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Enterprise Networks",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Management Information Systems",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "IS401.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Disaster Recovery and High Availability Techniques",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN406.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Embedded Systems",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS408.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Parallel and Distributed Computing",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS404.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Data Warehousing and Data Mining",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS405.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Internet of Things",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CS407.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "Platform Based Development",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "SE403.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Elective",
+   "name_here": "E-Business Application Development",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "IS402.3",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "CN Honours Award Project",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN401.6",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 4,
+   "type": "Core",
+   "name_here": "Intrusion Prevention, Detection & Response",
+   "source": "BSc (Hons) in Computer Networks",
+   "target": "CN403.3",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Graphic and Communication Designer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Art Director",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Creative Director",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Video Editor",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Production Director",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "2D and 3D Visualizer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Animation Designer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Virtual Environmental Designer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Game Designer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Film Director",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Web and interface designer",
+   "key": 0
+  },
+  {
+   "relation": "LEADS_TO",
+   "source": "BSc in Multimedia",
+   "target": "Entrepreneur",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Concept Development",
+   "source": "BSc in Multimedia",
+   "target": "MM 1001",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "World of Multimedia",
+   "source": "BSc in Multimedia",
+   "target": "MM 1002",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Computing Fundamentals",
+   "source": "BSc in Multimedia",
+   "target": "MM 1003",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Drawing",
+   "source": "BSc in Multimedia",
+   "target": "MM 1004",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Design Principles 1",
+   "source": "BSc in Multimedia",
+   "target": "MM 1005",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Typography Design",
+   "source": "BSc in Multimedia",
+   "target": "MM 1006",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Illustration",
+   "source": "BSc in Multimedia",
+   "target": "MM 1007",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Story Telling and Script Writing",
+   "source": "BSc in Multimedia",
+   "target": "MM 1008",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Art, Design and society",
+   "source": "BSc in Multimedia",
+   "target": "MM 1009",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Animation Studies",
+   "source": "BSc in Multimedia",
+   "target": "MM 1010",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Digital Imaging",
+   "source": "BSc in Multimedia",
+   "target": "MM 1011",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 1,
+   "type": "Core",
+   "name_here": "Multimedia Imaging",
+   "source": "BSc in Multimedia",
+   "target": "MM 1012",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Photography",
+   "source": "BSc in Multimedia",
+   "target": "MM 1013",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Cinematography",
+   "source": "BSc in Multimedia",
+   "target": "MM 1014",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "3D Design 1",
+   "source": "BSc in Multimedia",
+   "target": "MM 1015",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Game Design",
+   "source": "BSc in Multimedia",
+   "target": "MM 1016",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Video Editing and Production",
+   "source": "BSc in Multimedia",
+   "target": "MM 1017",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Interactive Design",
+   "source": "BSc in Multimedia",
+   "target": "MM 1018",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Advertising and Media Art",
+   "source": "BSc in Multimedia",
+   "target": "MM 1019",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Multimedia Project Management",
+   "source": "BSc in Multimedia",
+   "target": "MM 1020",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "3D Design 2",
+   "source": "BSc in Multimedia",
+   "target": "MM 1021",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Web Design",
+   "source": "BSc in Multimedia",
+   "target": "MM 1022",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Design Principles 2",
+   "source": "BSc in Multimedia",
+   "target": "MM 1023",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 2,
+   "type": "Core",
+   "name_here": "Visual Communication",
+   "source": "BSc in Multimedia",
+   "target": "MM 1024",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Multimedia Production",
+   "source": "BSc in Multimedia",
+   "target": "MM 1025",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Professional Studies",
+   "source": "BSc in Multimedia",
+   "target": "MM 1026",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Visual Effects Production",
+   "source": "BSc in Multimedia",
+   "target": "MM 1027",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Research Methodology",
+   "source": "BSc in Multimedia",
+   "target": "MM 1028",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Dissertation",
+   "source": "BSc in Multimedia",
+   "target": "MM 1029",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Internship",
+   "source": "BSc in Multimedia",
+   "target": "MM 1030",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Media Law and Ethics",
+   "source": "BSc in Multimedia",
+   "target": "MM 1031",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Entrepreneurship",
+   "source": "BSc in Multimedia",
+   "target": "MM 1032",
+   "key": 0
+  },
+  {
+   "relation": "HAS_MODULE",
+   "year": 3,
+   "type": "Core",
+   "name_here": "Final Project",
+   "source": "BSc in Multimedia",
+   "target": "MM 1033",
+   "key": 0
+  }
+ ]
+}
