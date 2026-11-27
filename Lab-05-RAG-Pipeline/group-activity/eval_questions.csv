@@ -1,0 +1,13 @@
+question,reference_answer,hops
+How long is the Management Information Systems degree?,4 years,single
+What is the academic progression for the Multimedia degree?,"MSc, PhD",single
+What careers does the Software Engineering degree lead to?,"Software Engineer, Systems Analyst, Quality Assurance Engineer, UI Engineer, System Support Engineer, Web Design",single
+What is module CN303.3 called?,Service Provider Systems and Networks,single
+How many credits is the Final Project module in the Multimedia degree?,6 credits,single
+Is Cryptography a core module in Computer Science?,"No, it is an elective in Year 3",single
+Which degrees offer Data Warehousing and Data Mining and in which year?,"MIS, Software Engineering, Computer Science and Computer Networks, all in Year 4 as an elective",multi
+Is IT Project Management core or elective in Software Engineering and Computer Networks?,"Elective in Software Engineering, core in Computer Networks (Year 3)",multi
+How many core modules are in Year 3 of Computer Networks?,7 core modules,multi
+Which Year 2 modules are in Software Engineering but not in Management Information Systems?,"Operating Systems, Algorithms and Complexity, Business Processes and ERP, Software Architecture",multi
+What is the duration of the degree that teaches Photography?,"3 years (BSc in Multimedia)",multi
+Which modules are common to Computer Science and Computer Networks in Year 3?,"Wireless Technologies and Network Programming, Cryptography, Information Assurance and Security, Advanced Mathematics for Computing, Internship, Social Issues and Professional Practice",multi

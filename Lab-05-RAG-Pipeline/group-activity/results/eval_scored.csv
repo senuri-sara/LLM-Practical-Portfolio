@@ -1,0 +1,119 @@
+question,reference_answer,hops,baseline_answer,baseline_seconds,graph_answer,graph_seconds,graph_score,baseline_score
+How long is the Management Information Systems degree?,4 years,single,The Management Information Systems (MIS) degree at NSBM Faculty of Computing is a 4-year program.,20.9,The duration of the BSc in Management Information Systems (Special) degree is 4 Years.,15.2,1.0,1.0
+What is the academic progression for the Multimedia degree?,"MSc, PhD",single,"The academic progression for the Multimedia degree is as follows: 
+
+MSc, PhD",14.5,"The academic progression for the Multimedia degree is as follows:
+
+MSc, PhD",16.2,1.0,1.0
+What careers does the Software Engineering degree lead to?,"Software Engineer, Systems Analyst, Quality Assurance Engineer, UI Engineer, System Support Engineer, Web Design",single,"According to the provided context, the Software Engineering degree leads to the following careers:
+
+1. Software Engineer
+2. Systems Analyst
+3. Quality Assurance Engineer
+4. UI Engineer
+5. System Support Engineer
+6. Web Design",15.9,"According to the GRAPH FACTS, the Software Engineering degree leads to the following careers:
+
+1. Software Engineer
+2. Systems Analyst
+3. Quality Assurance Engineer
+4. UI Engineer
+5. System Support Engineer
+6. Web Design",17.3,1.0,1.0
+What is module CN303.3 called?,Service Provider Systems and Networks,single,"Module CN303.3 is called ""Service Provider Systems and Networks"".",14.1,"Module CN303.3 is called ""Service Provider Systems and Networks"".",13.4,1.0,1.0
+How many credits is the Final Project module in the Multimedia degree?,6 credits,single,"According to the provided context, the Final Project module in the Multimedia degree has 6 credits.",15.1,"According to the GRAPH FACTS, the MM 1033 Final Project module is worth 6 credits.",17.8,1.0,1.0
+Is Cryptography a core module in Computer Science?,"No, it is an elective in Year 3",single,"Yes, according to the provided context, Cryptography (CS302.3) is a Core module in Computer Science.",17.0,"Yes, Cryptography (CS302.3) is a core module in Computer Science.",16.9,1.0,0.0
+Which degrees offer Data Warehousing and Data Mining and in which year?,"MIS, Software Engineering, Computer Science and Computer Networks, all in Year 4 as an elective",multi,"The degree that offers Data Warehousing and Data Mining is the Bachelor of Science in Computer Science, and it is offered in the 4th year.",17.1,"According to the GRAPH FACTS, CS405.3 Data Warehousing and Data Mining is offered in the following degrees and years:
+
+- BSc in Management Information Systems (Special) (Year 4, Elective)
+- BSc (Hons) in Software Engineering (Year 4, Elective)
+- BSc (Hons) in Computer Science (Year 4, Elective)
+- BSc (Hons) in Computer Networks (Year 4, Elective)",18.9,1.0,0.5
+Is IT Project Management core or elective in Software Engineering and Computer Networks?,"Elective in Software Engineering, core in Computer Networks (Year 3)",multi,"According to the provided context, IT Project Management (CS301.3) is listed as an elective module in the Software Engineering program.",15.3,"According to the GRAPH FACTS, 
+
+CS301.3 IT Project Management is offered in: 
+- BSc (Hons) in Software Engineering (Year 3, Elective) 
+- BSc (Hons) in Computer Networks (Year 3, Core) 
+
+Therefore, IT Project Management is ELECTIVE in Software Engineering and CORE in Computer Networks.",17.3,1.0,0.5
+How many core modules are in Year 3 of Computer Networks?,7 core modules,multi,"Based on the provided context, I found the following information about Year 3 of Computer Networks:
+
+[Source 3: COMPUTING AWARD HANDBOOK_MOHE (2).pdf, page 15]
+
+The list of modules for Year 3 is not provided, but I found the following information about the program:
+
+""Focuses on infusing knowledge and skills to develop and maintain Computer Networks within an organization or between organizations""
+
+Additionally, I found the following information about the program structure:
+
+""YEAR 03 
+Module Code 
+Module Name 
+Credit 
+Value 
+Type 
+MM 1025 
+Multimedia Production 
+2 
+Core 
+MM 1026 
+Professional Studies 
+3 
+Core 
+MM 1027 
+Visual Effects Production 
+3 
+Core 
+MM 1028 
+Research Methodology 
+2 
+Core 
+MM 1029 
+Dissertation 
+5 
+Core 
+MM 1030 
+Internship# 
+4 
+Core 
+MM 1031 
+Media Law and Ethics 
+2 
+Core 
+MM 1032 
+Entrepreneurship 
+3 
+Core 
+MM 1033 
+Final Project 
+6 
+Core""
+
+However, I could not find any information about the core modules for Year 3 of Computer Networks.",21.6,"According to the GRAPH FACTS, in Year 3 of the BSc (Hons) in Computer Networks, there are 7 core modules worth 24 credits in total.",13.2,1.0,0.0
+Which Year 2 modules are in Software Engineering but not in Management Information Systems?,"Operating Systems, Algorithms and Complexity, Business Processes and ERP, Software Architecture",multi,"Based on the provided context, I found that the Year 2 modules in Software Engineering are:
+
+* SE201.3 Systems Analysis and Design
+* SE202.3 Introduction to Software Engineering
+* SE206.3 Human Computer Interaction
+* SE304.3 Software Quality Assurance
+* SE308.3 Software Process Management
+
+These modules are part of the Software Engineering program, but not part of the Management Information Systems (MIS) program.",15.2,"Based on the GRAPH FACTS, the Year 2 modules in Software Engineering that are not in Management Information Systems are:
+
+* CS201.3 Operating Systems
+* CS203.3 Algorithms and Complexity
+* CS201.3 Computer Networks (note: this is a common module with Management Information Systems, but it is listed as a core module for Software Engineering)
+* CS205.3 Software Architecture
+* CS306.3 Information Assurance and Security",18.2,0.5,0.0
+What is the duration of the degree that teaches Photography?,3 years (BSc in Multimedia),multi,I could not find this information in the uploaded documents.,16.3,"According to the GRAPH FACTS, the BSc in Multimedia degree, which includes the Photography module (MM 1013), has a duration of 3 years.",15.5,1.0,0.0
+Which modules are common to Computer Science and Computer Networks in Year 3?,"Wireless Technologies and Network Programming, Cryptography, Information Assurance and Security, Advanced Mathematics for Computing, Internship, Social Issues and Professional Practice",multi,"Based on the provided context, I found that the modules common to Computer Science and Computer Networks in Year 3 are:
+
+* CS306.3 Information Assurance and Security
+* SE309.3 Software Verification and Validation",15.8,"According to the GRAPH FACTS, the common modules to BSc (Hons) in Computer Science and BSc (Hons) in Computer Networks in Year 3 are:
+
+1. CN302.3 Wireless Technologies and Network Programming
+2. CS302.3 Cryptography
+3. CS306.3 Information Assurance and Security
+4. MA301.3 Advanced Mathematics for Computing
+5. SE305.6 Internship
+6. SE307.3 Social Issues and Professional Practice",19.0,1.0,0.5

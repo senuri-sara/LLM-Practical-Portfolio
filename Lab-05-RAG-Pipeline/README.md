@@ -111,6 +111,9 @@ For "what is the largest city in sri lanka", the app replied that it could not f
 3. Put PDF files in a `data` folder and run `python ingest.py`, or upload them through the app.
 4. Start the app: `streamlit run app.py`
 
+## Group Activity – Knowledge Graph RAG
+The advanced RAG activity was completed individually using the Group 4 option, Knowledge Graph RAG. The handbook was converted into a knowledge graph of 141 nodes and 253 relationships, and the Graph RAG improved accuracy on multi-hop questions from 0.25 to 0.92 compared with this pipeline. See [group-activity/README.md](group-activity/README.md) for the full report.
+
 ## Observations
 - RAG gave accurate answers about NSBM's own programme, which a general model could not know. Every answer could be checked using the file name and page number shown under Sources.
 - The assistant refused off-topic questions (skin care, the largest city in Sri Lanka) instead of inventing answers, so the grounding prompt worked.
