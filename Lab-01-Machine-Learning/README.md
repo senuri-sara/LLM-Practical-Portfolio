@@ -67,11 +67,33 @@ The trained model was tested on new sentences that were not part of the dataset.
 
 Clear sentences were classified correctly with high confidence. "This phone is amazing, I love it" was predicted as positive with a probability of 0.96, and "Worst service ever, totally disappointed" was predicted as negative. However, the model failed with negation: "This movie was not bad" and "The food was not bad at all" were both wrongly predicted as negative, and "This movie was not good" was correct but with low confidence (0.39).
 
+### 9. TF-IDF comparison
+To compare text representations, the same models were also trained with TF-IDF (Term Frequency – Inverse Document Frequency). TF-IDF still counts words, but it gives less weight to words that appear in many reviews (such as "the" or "movie") and more weight to rare, informative words. A third version used word pairs (bigrams, `ngram_range=(1, 2)`), so that phrases such as "not bad" become features of their own. This increased the vocabulary from 4,479 to 21,112 features.
+
+| Model | Accuracy | Precision | Recall | F1 Score |
+|---|---|---|---|---|
+| BoW + Logistic Regression | 82.2% | 80.4% | 85.0% | 82.7% |
+| BoW + Linear SVM | 81.0% | 78.4% | 85.7% | 81.8% |
+| **TF-IDF + Logistic Regression** | **83.3%** | **81.1%** | **87.0%** | **83.9%** |
+| TF-IDF + Linear SVM | 82.3% | 80.1% | 86.0% | 83.0% |
+| TF-IDF (1–2 grams) + Logistic Regression | 82.7% | 80.6% | 86.0% | 83.2% |
+
+![TF-IDF comparison](screenshots/8-tfidf-comparison.png)
+
+TF-IDF improved both models, and TF-IDF with Logistic Regression gave the best result overall. Adding bigrams did not improve accuracy, because most word pairs appear only once or twice in 2,400 training reviews.
+
+The bigram model was then tested on the negation sentences from section 8.
+
+![Negation test](screenshots/9-negation-test.png)
+
+Bigrams moved the predictions in the right direction. "This movie was not good" became more confidently negative (0.39 → 0.21), and the "not bad" sentences moved towards positive (0.01 → 0.09 and 0.00 → 0.07). However, both "not bad" sentences were still predicted as negative. The phrase "not bad" is too rare in the training data for the model to learn its meaning, while the word "bad" on its own has one of the strongest negative weights.
+
 ## Observations
-- Logistic Regression performed slightly better than SVM overall, although the difference was small.
+- Logistic Regression performed slightly better than SVM with both representations, and TF-IDF gave better results than Bag-of-Words for both models (best: 83.3% accuracy).
 - Both models found negative reviews harder to classify correctly.
 - The main weakness is negation. Because Bag-of-Words treats each word separately and ignores word order, "not bad" is interpreted as two negative words instead of a positive phrase.
 - Preprocessing removed some useful signals, such as emoticons like ":)" and repeated exclamation marks, which can express strong emotion.
+- Adding bigrams did not solve negation. Word pairs can only be learned if they appear often enough in the training data, which shows a key limit of counting-based features.
 
 ## Learning Outcomes
 - The complete traditional NLP workflow was applied: preprocessing, exploration, splitting, vectorisation, training and evaluation.
