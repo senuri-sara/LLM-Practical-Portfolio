@@ -18,6 +18,7 @@ The aim of this lab is to use a Large Language Model (LLM) as a product-developm
 | `activity-2/summary.md` | Summary of the work carried out with the LLM and the lessons learned |
 | `screenshots/` | Evidence of every prompt and LLM response |
 | `prototype/` | Individual screens of the visual prototype |
+| `presentation/StillHour-Lab02.pptx` | Final presentation of the StillHour concept |
 
 ## Development Process
 
