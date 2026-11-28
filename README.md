@@ -27,7 +27,7 @@ LLM-Practical-Portfolio/
 ├── Lab-02-LLM-Everyday-Life/     README, activity-2/, screenshots/, prototype/
 ├── Lab-03-Tiny-Transformer/      README, notebooks/, screenshots/
 ├── Lab-04-Fine-Tune/             README, notebooks/, screenshots/
-├── Lab-05-RAG-Pipeline/          README, Python files, requirements.txt, screenshots/
+├── Lab-05-RAG-Pipeline/          README, Python files, requirements.txt, screenshots/, group-activity/
 └── Lab-06-AI-Agents/             README, Python files, requirements.txt, screenshots/
 ```
 
@@ -41,11 +41,11 @@ This assessment is in the **Assisted** category. Claude (Anthropic) was used as 
 
 | Area | How AI was used |
 |---|---|
-| Lab 01 | Explaining concepts , fixing the Anaconda installation, and suggesting notebook section headings |
-| Lab 02 | AI  helped improve the prompts and create the visual prototype board |
+| Lab 01 | Explaining concepts, fixing the Anaconda installation, and suggesting notebook section headings |
+| Lab 02 | AI helped improve the prompts and create the visual prototype board |
 | Lab 03 | Debugging errors in the notebook and explaining the training and evaluation steps |
 | Lab 04 | Explaining fine-tuning and LoRA, generating the initial set of 30 StillHour question-and-answer pairs, and identifying the bug where LoRA changed the base model in place |
-| Lab 05 | Suggested code for the ingestion script, query rewriting with MMR and the Streamlit app |
+| Lab 05 | Suggested code for the ingestion script, query rewriting with MMR and the Streamlit app; for the Knowledge Graph RAG activity, the code |
 | Lab 06 | Debugging the agents, including suggested code fixes for `calc_agent.py` and `memory_agent.py` |
 | Documentation | Helping structure lab READMEs and final reflection |
 
