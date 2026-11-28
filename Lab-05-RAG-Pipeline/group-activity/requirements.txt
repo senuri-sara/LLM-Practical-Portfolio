@@ -1,0 +1,8 @@
+pymupdf>=2.2
+networkx
+matplotlib
+streamlit
+langchain-core
+langchain-ollama
+langchain-chroma
+
