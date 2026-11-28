@@ -51,3 +51,4 @@ This assessment is in the **Assisted** category. Claude (Anthropic) was used as 
 
 ## Acknowledgements
 The lab tasks and starter code are based on the PUSL3205 lab sheets , and the code was modified and extended for this portfolio.
+The signed Generative AI Declaration is available in [GenAI-Declaration.pdf](GenAI-Declaration.pdf).
